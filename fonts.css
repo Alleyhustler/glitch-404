@@ -1,0 +1,110 @@
+@font-face {
+		font-family: 'AzeretMono-ExtraLight';
+		src: url('fonts/AzeretMono-ExtraLightItalic.woff2') format('woff2');
+		font-weight: 200;
+		font-style: italic;
+}
+
+@font-face {
+		font-family: 'AzeretMono-ExtraLight';
+		src: url('fonts/AzeretMono-ExtraLight.woff2') format('woff2');
+		font-weight: 200;
+		font-style: normal;
+}
+
+@font-face {
+		font-family: 'dejavu_sans_mono';
+		src: url('fonts/dejavusansmono-webfont.woff2') format('woff2'),
+				 url('fonts/dejavusansmono-webfont.woff') format('woff');
+		font-weight: normal;
+		font-style: normal;
+}
+
+@font-face {
+		font-family: 'dejavu_sans_mono';
+		src: url('fonts/dejavusansmono-bold-webfont.woff2') format('woff2'),
+				 url('fonts/dejavusansmono-bold-webfont.woff') format('woff');
+		font-weight: bold;
+		font-style: normal;
+
+}
+
+@font-face {
+		font-family: 'dejavu_sans_mono';
+		src: url('fonts/dejavusansmono-boldoblique-webfont.woff2') format('woff2'),
+				 url('fonts/dejavusansmono-boldoblique-webfont.woff') format('woff');
+		font-weight: bold;
+		font-style: oblique;
+
+}
+
+@font-face {
+		font-family: 'dejavu_sans_mono';
+		src: url('fonts/dejavusansmono-oblique-webfont.woff2') format('woff2'),
+				 url('fonts/dejavusansmono-oblique-webfont.woff') format('woff');
+		font-weight: normal;
+		font-style: oblique;
+}
+
+@font-face {
+		font-family: 'ft88bold';
+		src: url('fonts/ft88-bold-webfont.woff2') format('woff2'),
+				 url('fonts/ft88-bold-webfont.woff') format('woff');
+		font-weight: normal;
+		font-style: normal;
+}
+
+
+@font-face {
+		font-family: 'ft88expanded';
+		src: url('fonts/ft88-expanded-webfont.woff2') format('woff2'),
+				 url('fonts/ft88-expanded-webfont.woff') format('woff');
+		font-weight: normal;
+		font-style: normal;
+}
+
+
+@font-face {
+		font-family: 'ft88gothique';
+		src: url('fonts/ft88-gothique-webfont.woff2') format('woff2'),
+				 url('fonts/ft88-gothique-webfont.woff') format('woff');
+		font-weight: normal;
+		font-style: normal;
+}
+
+
+@font-face {
+		font-family: 'ft88italic';
+		src: url('fonts/ft88-italic-webfont.woff2') format('woff2'),
+				 url('fonts/ft88-italic-webfont.woff') format('woff');
+		font-weight: normal;
+		font-style: normal;
+}
+
+
+@font-face {
+		font-family: 'ft88regular';
+		src: url('fonts/ft88-regular-webfont.woff2') format('woff2'),
+				 url('fonts/ft88-regular-webfont.woff') format('woff');
+		font-weight: normal;
+		font-style: normal;
+}
+
+
+@font-face {
+		font-family: 'ft88school';
+		src: url('fonts/ft88-school-webfont.woff2') format('woff2'),
+				 url('fonts/ft88-school-webfont.woff') format('woff');
+		font-weight: normal;
+		font-style: normal;
+}
+
+
+@font-face {
+		font-family: 'ft88serif';
+		src: url('fonts/ft88-serif-webfont.woff2') format('woff2'),
+				 url('fonts/ft88-serif-webfont.woff') format('woff');
+		font-weight: normal;
+		font-style: normal;
+
+}
